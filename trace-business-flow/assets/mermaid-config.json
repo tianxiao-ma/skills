@@ -1,0 +1,30 @@
+{
+  "theme": "neutral",
+  "fontFamily": "PingFang SC, Arial, sans-serif",
+  "sequence": {
+    "mirrorActors": true,
+    "useMaxWidth": false,
+    "actorMargin": 70,
+    "diagramMarginX": 30,
+    "diagramMarginY": 25,
+    "messageMargin": 45,
+    "boxMargin": 14,
+    "noteMargin": 15,
+    "wrap": true,
+    "width": 160,
+    "height": 65
+  },
+  "flowchart": {
+    "htmlLabels": true,
+    "curve": "linear",
+    "nodeSpacing": 45,
+    "rankSpacing": 60
+  },
+  "themeVariables": {
+    "fontSize": "17px",
+    "noteTextColor": "#172030",
+    "noteBkgColor": "#f3f6fa",
+    "noteBorderColor": "#8b9aad"
+  },
+  "themeCSS": ".messageText, .loopText, .loopText tspan, .labelText { stroke: #ffffff !important; stroke-width: 5px !important; paint-order: stroke fill !important; stroke-linejoin: round !important; }"
+}
